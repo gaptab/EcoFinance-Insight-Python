@@ -3,7 +3,7 @@
  ![alt text](https://github.com/gaptab/EcoFinance-Insight-Python/blob/main/481a.png)
  ![alt text](https://github.com/gaptab/EcoFinance-Insight-Python/blob/main/481.png)
 
-Step 1: Generates dummy data for 70 portfolio companies, including sectors, regions, access to finance, essential services, job creation, ESG deficiencies, climate policies, emissions (scope 1, 2, 3), gender pay gap, biodiversity, and local community impact.
+Step 1: Generates data for 70 portfolio companies, including sectors, regions, access to finance, essential services, job creation, ESG deficiencies, climate policies, emissions (scope 1, 2, 3), gender pay gap, biodiversity, and local community impact.
 
 Step 2: Calculates portfolio-wide impact metrics, including access to finance, essential services, and job creation scores.
 
